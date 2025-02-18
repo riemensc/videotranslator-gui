@@ -1,0 +1,13 @@
+# requirements.txt
+
+
+Pillow
+typing-extensions
+nltk
+faster-whisper
+deep-translator
+google-generativeai 
+gTTS 
+psutil 
+ttkbootstrap
+requests
